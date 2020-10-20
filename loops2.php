@@ -1,9 +1,9 @@
 <?php
 
-for($i=1;$i<=5;$i++){
+for($i=3;$i>=1;$i--){
 
-    for($j=1;$j<=3;$j++){
-            echo $i;
+    for($j=5;$j>=1;$j--){
+            echo $j;
             echo " ";
 
     }
